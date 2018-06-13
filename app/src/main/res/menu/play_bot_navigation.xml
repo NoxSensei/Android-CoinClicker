@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_play"
+        android:icon="@drawable/ic_play"
+        android:title="@string/clicker" />
+
+    <item
+        android:id="@+id/navigation_shop"
+        android:icon="@drawable/ic_shop"
+        android:title="@string/shop" />
+
+    <item
+        android:id="@+id/navigation_back"
+        android:icon="@drawable/ic_back"
+        android:title="@string/back" />
+
+</menu>
