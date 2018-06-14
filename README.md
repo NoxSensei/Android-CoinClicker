@@ -4,7 +4,7 @@ Created using Android Studio
 
 Coin Clicker is a simple Android App.  
 The main objective is clicking gold coin or shaking phone to get more coins.  
-The more $ you have the better upgrades you can buy from shop.
+The more $ you have the better upgrades you can buy from the shop.
 
 Images come from:
 * [Coin image](https://opengameart.org/content/coin-icon)
