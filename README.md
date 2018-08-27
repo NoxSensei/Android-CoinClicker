@@ -1,4 +1,4 @@
-# Android Java Coin Clicker
+# Coin Clicker
 
 Created using Android Studio
 
