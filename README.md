@@ -10,4 +10,4 @@ Images come from:
 * [Coin image](https://opengameart.org/content/coin-icon)
 * [Others](https://www.iconspng.com/)
 
-[nox.com.pl - Coin Clicker](http://nox.com.pl/simple-programs-android-java-coin-clicker/)
+[nox.com.pl - Coin Clicker](http://nox.com.pl/projects-android-java-coin-clicker/)
